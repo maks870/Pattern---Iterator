@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\Pattern - Iterator\Pattern - Iterator\bin\Debug\netcoreapp3.1\Pattern - Iterator.exe
+C:\Users\Administrator\source\repos\Pattern - Iterator\Pattern - Iterator\bin\Debug\netcoreapp3.1\Pattern - Iterator.deps.json
+C:\Users\Administrator\source\repos\Pattern - Iterator\Pattern - Iterator\bin\Debug\netcoreapp3.1\Pattern - Iterator.runtimeconfig.json
+C:\Users\Administrator\source\repos\Pattern - Iterator\Pattern - Iterator\bin\Debug\netcoreapp3.1\Pattern - Iterator.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\Pattern - Iterator\Pattern - Iterator\bin\Debug\netcoreapp3.1\Pattern - Iterator.dll
+C:\Users\Administrator\source\repos\Pattern - Iterator\Pattern - Iterator\bin\Debug\netcoreapp3.1\Pattern - Iterator.pdb
+C:\Users\Administrator\source\repos\Pattern - Iterator\Pattern - Iterator\obj\Debug\netcoreapp3.1\Pattern - Iterator.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Pattern - Iterator\Pattern - Iterator\obj\Debug\netcoreapp3.1\Pattern - Iterator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Pattern - Iterator\Pattern - Iterator\obj\Debug\netcoreapp3.1\Pattern - Iterator.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Pattern - Iterator\Pattern - Iterator\obj\Debug\netcoreapp3.1\Pattern - Iterator.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Pattern - Iterator\Pattern - Iterator\obj\Debug\netcoreapp3.1\Pattern - Iterator.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Pattern - Iterator\Pattern - Iterator\obj\Debug\netcoreapp3.1\Pattern - Iterator.dll
+C:\Users\Administrator\source\repos\Pattern - Iterator\Pattern - Iterator\obj\Debug\netcoreapp3.1\Pattern - Iterator.pdb
+C:\Users\Administrator\source\repos\Pattern - Iterator\Pattern - Iterator\obj\Debug\netcoreapp3.1\Pattern - Iterator.genruntimeconfig.cache
